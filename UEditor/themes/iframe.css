@@ -1,0 +1,38 @@
+/*可以在这里添加你自己的css*/
+p {
+  margin: 0px 0;
+  font-size: 16px;
+  font-family:
+    "微软雅黑",
+    "Microsoft YaHei",
+    "SimHei",
+    Arial,
+    Helvetica,
+    Tahoma,
+    Verdana,
+    Sans-Serif;
+  line-height: 1;
+}
+
+html.view {
+  overflow: hidden;
+  padding: 0px;
+  margin: 0;
+  height: 100%;
+}
+
+body.view {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-y: auto;
+}
+
+body.skin_bdatag_deepBlue {
+  background: #001226;
+  color: #ffffff;
+}
+
+.editor-placeholder {
+  color: #B3B3B3 !important;
+}
